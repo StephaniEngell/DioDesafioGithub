@@ -2,7 +2,7 @@ Desafio de Git e Github
 
 ## :dart: About ##
  
-Desafio de projeto DIO: primeiro repositório no Github. Estudando melhor as tecnologias Git/Github
+Desafio de projeto DIO: primeiro repositório no Github. Estudando melhor as tecnologias Git/Github.
 
  <img src="https://raw.githubusercontent.com/StephaniEngell/DioDesafioGithub/38c8783c3c56835719d2e571260068610db614cd/assets/Animacao.gif">
 
